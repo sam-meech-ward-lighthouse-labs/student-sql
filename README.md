@@ -123,3 +123,6 @@ SELECT students.name as student, age, teachers.name as favorite_teacherFROM stud
 ## Links
 
 * ERD: https://drive.google.com/file/d/1rxcK3hQO4n2hSi4gtHjPRN_gN5jS8bBn/view?usp=sharing
+* Karls Notes:
+  - https://github.com/jensen/sqlintro-notes/
+  - https://github.com/jensen/moresql-notes/
